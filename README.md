@@ -26,4 +26,7 @@ This repository provides a collection of resources and materials to support lear
 - Molecular Biology and computational biology
 - Nuclear receptors in health and disease
 
+### Different questions for consideration
+[CLICK HERE](https://github.com/semanticClimate/bioAI_workshop/discussions/1)
+
 
