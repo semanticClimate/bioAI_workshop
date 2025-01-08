@@ -29,4 +29,8 @@ This repository provides a collection of resources and materials to support lear
 ### Different questions for consideration
 [CLICK HERE](https://github.com/semanticClimate/bioAI_workshop/discussions/1)
 
+### Program Schedule for the workshop (It may change)
+
+[CLICK HERE](https://github.com/semanticClimate/bioAI_workshop/discussions/2)
+
 
