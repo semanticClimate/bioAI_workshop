@@ -28,7 +28,6 @@ We will use a pre-trained transformer model (`distilbart-cnn-12-6`) for summariz
 
 ```
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
-```
 
 # Initialize the model and tokenizer
 checkpoint = "sshleifer/distilbart-cnn-12-6"
@@ -66,7 +65,6 @@ Now, you can display the HTML content within your notebook using the following c
 
 ```
 from IPython.core.display import display, HTML
-```
 
 # Path to the HTML file
 html_file_path = '/content/downloaded_file/datatables.html'
@@ -114,7 +112,6 @@ Before summarizing the text, we need to split it into sentences. The `nltk` libr
 
 ```
 import nltk
-```
 
 # Split the text into sentences using NLTK
 nltk.download('punkt')  # Ensure the necessary tokenizer data is downloaded
